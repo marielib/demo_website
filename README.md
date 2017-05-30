@@ -6,16 +6,13 @@
 
 A so very simple personal site.
 
-This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
+This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project. I made a few changes for the 
+sake of this class.
 
-See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
+To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
-## Create your own
+My repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
 
-
-| You'll Need:                                   | ☟                                                 |
-| -----------------------------------------------| ------------------------------------------------- |
-| [GitHub](http://www.github.com/join) account | Basic [HTML](http://learn.shayhowe.com/html-css/) |
 
 
 ### First, fork this repository.
@@ -24,15 +21,15 @@ Click the fork button in the upper right. Now you have a copy of this repository
 
 ### Rename your fork
 
-Once you've forked it, click on Settings and rename your fork, because probably `hello` is not what you want in your URL. Name your new repository: `username.github.io` (but make `username` your username, for instance, I'd use `jlord.github.io`). GitHub will host all website files on the `master` branch of a repo with that account name convention. Woo! More info on that at [pages.github.com](http://www.pages.github.com).
-
-You can also give it any 'ol name and GitHub will host it using this patter: `username.github.io/reponame`. Or you can keep it named `hello` and find it at: `username.github.io/hello`.
+Once you've forked it, click on Settings and rename your fork, because probably `hello` is not what you want in your URL.
+You can give it any 'ol name and GitHub will host it using this patter: `username.github.io/reponame`. Or you can keep it named `demo_website` and find it at: `username.github.io/demo_website`.
 
 ### Make yours live
 
-1. From your fork's page on GitHub, click the index.html link, then on the next page click Edit.
-2. Make changes to the HTML so that the site reflects your name and bio.
-8. At the bottom of the site, click the Commit button to save your changes.
+1. From your fork's page on GitHub, click the clone button to copy the repository URL to your clipboard.
+2. Clone your fork to your own computer.
+3. Make changes to the index.html so that the site reflects your name and bio. You might also want to change this README file.
+4. Add + commit your changes, and push back to GitHub. Remember that you are on the gh-pages fork, not the master.
 
 Now your site is live! Go check it out!
 
