@@ -28,7 +28,7 @@ You can give it any 'ol name and GitHub will host it using this patter: `usernam
 
 1. From your fork's page on GitHub, click the clone button to copy the repository URL to your clipboard.
 2. Clone your fork to your own computer.
-3. Make changes to the index.html so that the site reflects your name and bio. You might also want to change this README file.
+3. Make changes to the index.html so that the site reflects your name and bio. You might also want to change this README file (it's written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 4. Add + commit your changes, and push back to GitHub. Remember that you are on the gh-pages fork, not the master.
 
 Now your site is live! Go check it out!
