@@ -10,7 +10,7 @@ This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project, t
 
 To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
-My repository is here: [katebron.github.io/demo_website](https://katebron.github.io/demo_website/).
+My repository is here: [marielib.github.io/demo_website](https://marielib.github.io/demo_website/).
 
 
 
