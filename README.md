@@ -6,8 +6,7 @@
 
 A so very simple personal site.
 
-This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project. I made a few changes for the 
-sake of this class.
+This was forked from the  [Fork-n-Go](http://jlord.github.io/forkngo) project, then forked again from Kate B's project for class.
 
 To see the original demo, go to [jlord.github.io/hello](http://jlord.github.io/hello).
 
